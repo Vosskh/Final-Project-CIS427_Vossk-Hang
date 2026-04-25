@@ -21,7 +21,7 @@ This project implements a multi-threaded client-server chat application using Py
    `python client.py`
 
 ## Video Demonstration
-- *Included in the submission folder and this repo*
+- *Included in the submission .Zip folder and this repo.*
 
 ## Design Strategy
 - **Refer to the Programming_Memo.pdf for a detailed threading model and protocol analysis.**
